@@ -1,9 +1,10 @@
 # Hi, I am Emmanuel Ogbonna
 
-**Summary**
 Results-driven Network Engineer with over 8 years of hands-on experience managing complex enterprise network infrastructures within high-pressure Network Operations Center (NOC) environments. Adept at incident management, root cause analysis, network security, and infrastructure resilience.
 
 Leveraging a deep technical foundation in routing, switching, and security protocols to pivot into Governance, Risk, and Compliance (GRC). Passionate about bridging the gap between technical operations and regulatory frameworks, ensuring organizations meet stringent security standards without sacrificing operational agility.
+
+My years in the NOC have given me a unique "under-the-hood" perspective on how networks actually operate, fail, and get secured. I understand the human and technical bottlenecks of IT operations, allowing me to design pragmatic, realistic compliance policies that developers and engineers can actually implement.
 
 Core Competencies
 Network & Infrastructure: Routing & Switching, Firewalls, VPNs, WAN/LAN Optimization, Network Monitoring & Alerting Tools.
@@ -22,9 +23,6 @@ Frameworks & Standards (Transition Focus): NIST, ISO 27001, SOC 2, HIPAA, PCI-DS
 
 **Goals**
 My objective is to become a seasoned and well-rounded GRC professional, driven by a deep passion to protect organizations against data tampering, breaches, and emerging cyber threats.
-
-**The GRC Advantage**
-My years in the NOC have given me a unique "under-the-hood" perspective on how networks actually operate, fail, and get secured. I understand the human and technical bottlenecks of IT operations, allowing me to design pragmatic, realistic compliance policies that developers and engineers can actually implement.
 
 **Fun Fact**
 When I am not analyzing risk or configuring networks, you can find me relaxing at the beach or enjoying outdoor activities. I am pretty open, spontaneous, and always up for an adventure.
