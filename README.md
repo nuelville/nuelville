@@ -1,6 +1,6 @@
-# Hi, I am Emmanuel Ogbonna
+# Hello, I am Emmanuel Ogbonna, also known as NuelVille, which is my preferred name.
 
-Results-driven Network Engineer with over 8 years of hands-on experience managing complex enterprise network infrastructures within high-pressure Network Operations Center (NOC) environments. Adept at incident management, root cause analysis, network security, and infrastructure resilience.
+I am a results-driven Network Engineer with over 8 years of hands-on experience managing complex enterprise network infrastructures within high-pressure Network Operations Center (NOC) environments. Adept at incident management, root cause analysis, network security, and infrastructure resilience.
 
 Leveraging a deep technical foundation in routing, switching, and security protocols to pivot into Governance, Risk, and Compliance (GRC). Passionate about bridging the gap between technical operations and regulatory frameworks, ensuring organizations meet stringent security standards without sacrificing operational agility.
 
