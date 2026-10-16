@@ -29,5 +29,5 @@ When I am not analyzing risk or configuring networks, you can find me relaxing a
 
 **How to Reach Me**
 
-* LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com)
-* Email: [Get in touch via email](https://www.google.com/search?q=mailto%3Aemmanuel%40example.com)
+* LinkedIn: https://www.linkedin.com/in/emmanuel-ogbonna-bbb45b82/
+
