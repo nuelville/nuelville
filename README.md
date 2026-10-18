@@ -314,9 +314,9 @@ I welcome opportunities to learn from experienced practitioners, collaborate on 
 
 If you work in GRC, cybersecurity governance, information security, or infrastructure security, I'd be happy to connect and learn from your experience.
 
-- **GitHub:** [Add your GitHub profile URL]
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **Email:** [Add your professional email address, if you wish to share it]
+- **GitHub:** https://github.com/nuelville
+- **LinkedIn:** https://www.linkedin.com/in/emmanuel-ogbonna-bbb45b82/
+- **Email:** nuelogb@yahoo.com
 
 ---
 
@@ -339,7 +339,4 @@ Thanks for visiting my profile! 🚀
 *Let's connect, collaborate, and build a more secure digital future together.*
 
 
-**How to Reach Me**
-
-* LinkedIn: https://www.linkedin.com/in/emmanuel-ogbonna-bbb45b82/
 
