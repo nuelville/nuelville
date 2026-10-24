@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Emmanuel Ogbonna (NuelVille)
+#  Hello, I'm Emmanuel Ogbonna (NuelVille) 👋
 
-### GRC Analyst | Network Engineer | Cybersecurity | Governance, Risk & Compliance
+###  Network Engineer | Cybersecurity | Governance, Risk & Compliance | GRC Analyst 
 
 I'm **Emmanuel Ogbonna, also known as NuelVille**, an IT professional building on over 7 years of hands-on network engineering experience in complex enterprise environments and high-pressure Network Operations Center (NOC) operations.
 
